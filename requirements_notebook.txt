@@ -1,0 +1,11 @@
+joblib==1.2.0
+mordred==1.2.0
+numpy==1.22.4
+pandas==1.5.3
+rdkit==2022.9.5
+rdkit_pypi==2022.9.4
+pybel==0.15.5
+scikit-learn==1.0.2
+shap==0.41.0
+modAL==0.4.1
+BorutaShap==1.0.16
