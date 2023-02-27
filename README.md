@@ -1,5 +1,18 @@
 # cardiotox-active
 
+## Repository structure
+    .
+    ├── data                       # Used data
+    ├── model                      # Model files (parameters and selected features)
+    ├── notebooks                  # Notebooks (building model)
+    ├── src                        # Code
+    ├── tests                      # Tests
+    ├── Dockerfile                 # Dockerfile for web service 
+    ├── app.py                     # Main web service file
+    ├── requirements.txt           # Requirements for web service
+    ├── requirements_notebook.txt  # Requirements for notebook
+    └── README.md
+
 ## Web service
 To deploy service on http://127.0.0.1:5000
 ```
